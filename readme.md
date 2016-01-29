@@ -1,10 +1,11 @@
-Luftwerk Installations
-----------------------
+# Luftwerk Installations
 
-# Flower of Light
+Arduino .ino files to control lights and valve solenoids for the * of Light installations
+
+## Flower of Light
 
 13 pans, lights of unless coordinated with a valve solenoid
 
-# Seed of Light
+## Seed of Light
 
 7 pans, lights on always
